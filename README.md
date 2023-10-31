@@ -24,7 +24,7 @@ npm install
 ```
 ## Sample SVG
 
-![Preview SVG](../Images/sample-svg.png)
+![Preview SVG](./Images/sample-svg.png)
 
 ## Video
 
